@@ -4,9 +4,9 @@ Hardware Wallet.
 Reaching Out
 ------------
 
-- [Discussions Forum](https://community.firefly.app);
+- [Discussions Forum](https://community.firefly.app)
 - E-mail: 
-  - Development: [RicMoo](mailto:ricmoo@firefly.app), [Yuet Loo](yuetloo@firefly.app)
+  - Development: [RicMoo](mailto:ricmoo@firefly.app), [Yuet Loo](mailto:yuetloo@firefly.app)
   - Community and Operations: [Alisha](mailto:alisha@firefly.app)
 - Social Media:
   - [X / Twitter](https://x.com/fireflypocket)
