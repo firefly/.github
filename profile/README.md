@@ -5,7 +5,7 @@ The device we are currently working on is the *Firefly Pixie*,
 based on the ESP32-C3 (32-bit, RISC-V; 400kb RAM), 16MB flash,
 240x240 16-bit color IPS display and 4 buttons.
 
-<p align="center">
+<p align="left">
   <img src="./device.jpg" width="45%" alt="photo of device running Gloom background">
   <img src="./render-front.jpg" width="45%" alt="3D render of device front">
 </p>
