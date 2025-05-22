@@ -21,7 +21,7 @@ based on the ESP32-C3 (32-bit, RISC-V; 400kb RAM), 16MB flash,
 Reaching Out
 ------------
 
-- [Discussions Forum](https://community.firefly.app)
+- [Discussions Forum](https://forum.firefly.app)
 - E-mail: 
   - Development: [RicMoo](mailto:ricmoo@firefly.app), [Yuet Loo](mailto:yuetloo@firefly.app)
   - Community and Operations: [Alisha](mailto:alisha@firefly.app)
